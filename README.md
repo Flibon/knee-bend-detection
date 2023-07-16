@@ -1,4 +1,11 @@
 # Pose-detection (Knee bend)
-Calculating the angle between lower hip,knee and ankle,increses the rep cunt when person hold knee bend position for 8 seconds and below angle of 105 degrees, monitoring person stats and displaying the stats with time passed and calorie burned.
+To set up the Pose-Based Exercise Tracker application:
+
+Download and install the application on a compatible device (specify platform or provide a link if applicable).
+Launch the application and position the device in a stable position to capture the person's exercise movements.
+The computer vision algorithms will identify the pose of the person and provide real-time feedback on their exercise form.
+The machine learning techniques will determine the success of each exercise rep and count only the successful repetitions.
+The application will track the exercise start time, estimate the calories burned based on duration and intensity, and evaluate the person's performance.
+Utilize the application to monitor exercise sessions, track progress, and improve performance.
 
 Video Link: https://drive.google.com/file/d/1xr5JzGSPbIIPG4qfKrdkOUIQEup0ONAx/view?usp=sharing
